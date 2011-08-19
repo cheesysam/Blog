@@ -1,0 +1,6 @@
+---
+layout: post
+title: Getting Started
+---
+
+Just a quick test for getting started with Jekyll
