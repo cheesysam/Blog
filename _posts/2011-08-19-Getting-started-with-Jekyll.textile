@@ -2,5 +2,13 @@
 layout: post
 title: Getting Started
 ---
-
-Just a quick test for getting started with Jekyll
+<p>
+I'm retrospectively (7-12-11) writing my placeholder-jekyll-test-post to give an insight into web development, and more accurately how I feel about the current state of web technologies.
+<p>
+Sometime ago I was using WordPress. We got along initially, although that wasn't to last as before long it became such a hassle fighting with styles that I threw in the towel and started looking for something a bit more <i>basic</i>. The installation was a breeze, posting was particularly painless, and all in all it was smooth, however I couldn't help think it was too much for what I wanted.
+<p>
+Enter <a href='https://github.com/mojombo/jekyll'>Jekyll</a>. Lightweight and something to do with ruby (which was on my 'to-learn' list). Jekyll is a static site generator. After downloading it via ruby-gems and changing a few config files to something which looked like what I wanted, it was a quick and easy run, and then I knocked up a simple shell script to deploy it to my host. And here we are.
+<p>
+As for web development, the concepts sit well with me. I can see how things <i>should</i> work. It's the debugging I can't do. Writing bug-free code first time is notoriously impossible, but the abstraction between what goes in the input, and how it's rendered sometime later in one of what seems like infinite variations of browsers is where I lose interest.
+<p>
+In conclusion, I've given up on site aesthetics, and plan to deliver some words every now and again which will hopefully render how I want them. Or close enough.

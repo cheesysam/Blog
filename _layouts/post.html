@@ -1,8 +1,6 @@
 ---
-layout: post
-title: Sam Carter - Blog
+layout: layout
 ---
-
 <head>
 <script type="text/javascript">
 
@@ -18,11 +16,11 @@ title: Sam Carter - Blog
 
 </script>
 </head>
+<div id="post">
+    {{content}}
+    ---
+    <div id="contact">
+        Get in touch via email: sam.w.carter@gmail.com
+    </div>
+</div>
 
-<table>
-{% for post in site.posts %}
-    <tr>
-		<td>{{post.date | date: "%B %e, %Y" }}</td><td> <a href="{{post.url}}">{{post.title}}</a></td>
-    </tr>
-</table>
-{% endfor %}
