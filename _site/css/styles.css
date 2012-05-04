@@ -1,0 +1,35 @@
+body
+{
+    background-color:#E5FCC2;
+    color:#594F4F;
+    margin-left:20%;
+    margin-right:20%;
+    margin-top:0%;
+    margin-bottom:0%;
+    border-width:0px;
+}
+
+#middle
+{
+    background-color:#9DE0AD;
+    margin-top:4%;
+    padding-bottom:20%;
+    padding-top:3%;
+}
+
+#post
+{
+    padding-left:3%;
+    padding-right:3%;
+}
+
+#post h1
+{
+    color:#594F4F;
+}
+
+#post p
+{
+    color:#492E31;
+}
+
