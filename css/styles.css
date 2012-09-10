@@ -1,7 +1,7 @@
 body
 {
-    background-color:#E5FCC2;
-    color:#594F4F;
+    background-color:#373330; 
+    color:#A7735B;
     margin-left:20%;
     margin-right:20%;
     margin-top:0%;
@@ -11,7 +11,7 @@ body
 
 #middle
 {
-    background-color:#9DE0AD;
+    background-color:#D2DBCA;
     margin-top:4%;
     padding-bottom:20%;
     padding-top:3%;
@@ -30,6 +30,11 @@ body
 
 #post p
 {
-    color:#492E31;
+    color:#373330;
+}
+
+#post a
+{
+    color:#A7735B;
 }
 
