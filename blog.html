@@ -22,7 +22,7 @@ title: Sam Carter - Blog
 <table>
 {% for post in site.posts %}
     <tr>
-		<td>{{post.date | date: "%B %e, %Y" }}</td><td> <a href="{{post.url}}">{{post.title}}</a></td>
+		<td>{{post.date | date: "%B %e" }}<td>{{post.date | date: " - %Y"}}</td><td>    </td><td> <a href="{{post.url}}">{{post.title}}</a></td>
     </tr>
-</table>
 {% endfor %}
+</table>
