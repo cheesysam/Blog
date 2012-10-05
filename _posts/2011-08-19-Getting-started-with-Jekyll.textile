@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Getting Started
+published: false
 ---
 <p>
 I'm retrospectively (7-12-11) writing my placeholder-jekyll-test-post to give an insight into web development, and more accurately how I feel about the current state of web technologies.
