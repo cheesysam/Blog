@@ -3,5 +3,9 @@ layout: post
 title: Use The Tools
 ---
 <p>
-Blah blah blah
+I've recently read 'New Programmers Survival Manual', by Josh Carter. Despite being two years out of university and into my career, the book helped with some of the social protocols it's easy to miss when working in a new job. I felt there was one point I could add, which I've learned over the past couple of years. 
+<p>
+My university course was computer science. The majority of the classes focused on theory of their subject, and consequently, I could navigate my way around an RFC pretty well, however when it came to making a website it was expected of us to write in 'raw' html and other languages to get the result. Of course when learning it's best to fully understand your domain and build upwards, but later on in your career there will be a point where stuff needs to get done a bit quicker.
+<p>
+Make sure you're using all the tools you have available. I use jekyll as a static site generator because it got me up and running in fewer hours than writing a generator would. Finding the tools with the flexibility you need is a rewarding pursuit.
 <p>
